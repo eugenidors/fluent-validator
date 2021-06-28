@@ -1,4 +1,4 @@
-package test.java.es.princast.asesoria;
+package org.dorsmedia;
 
 import org.dorsmedia.exceptions.ValidationException;
 import org.dorsmedia.validations.Constraint;
